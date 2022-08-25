@@ -2,7 +2,7 @@
 
 ## Revisa el proyecto acá: 
 
-[Ver](https://javierfdb.github.io/desafio_02_LP_CSS/)
+[Ver](https://javierfdb.github.io/desafio-5-github/)
 
 
 Se forkea y clona un repositorio, posteriormente se modifica proyecto y se realizan los commits
